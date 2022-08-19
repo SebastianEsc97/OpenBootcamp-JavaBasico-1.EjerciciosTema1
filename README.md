@@ -1,4 +1,4 @@
-# OpenBootcamp-JavaBasico-4.EjerciciosTema9-
+# OpenBootcamp-JavaBasico-1.EjerciciosTema1
 Java Basico  Este es el cuarto ejercicio de OB, del curso de Java Basico en el cual se pide lo siguiente.
 
 Crea un proyecto de Java desde 0
